@@ -1,7 +1,10 @@
 # Project: Solar panel monitoring and optimization
 Parts used:
+
 -fotky koponentů
+
 Arduino Uno used:
+
 -fotka Arduina
 ## Team members
 Oleksandr Liepiekha (responsible for )
@@ -23,4 +26,5 @@ Links to our codes:
 ## Results
 -video a fotky
 ## References
-manály
+
+manuály
