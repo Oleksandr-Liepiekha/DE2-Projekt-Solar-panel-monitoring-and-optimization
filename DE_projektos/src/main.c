@@ -71,6 +71,9 @@ int main(void)
   // proměnná pro nastavení offsetu, polovina Vcc
   uint16_t offset = 2500;
 
+  TIM1_ovf_1sec();
+  TIM1_ovf_enable();
+    
   initADC(AVCC);
 
   GPIO_write_high(&PORTB, LED_1);
@@ -79,20 +82,14 @@ int main(void)
 
   oled_init(OLED_DISP_ON);
   oled_clrscr();
-
   oled_charMode(DOUBLESIZE);
   oled_puts("  PROJEKT");
-
   oled_charMode(NORMALSIZE);
-
   oled_drawLine(0, 15, 120, 15, WHITE);
-
   oled_gotoxy(1, 3);
   oled_puts("Current:");
-
   oled_gotoxy(1, 4);
   oled_puts("Rotation:");
-
   oled_display();
 
   while (1)
