@@ -16,6 +16,7 @@ Ivan Hinak (responsible for : OLED display, wiring diagram, GitHub )
 ## Theoretical description and explanation
 -popis toho co děláme
 ## Hardware description of demo application
+![Wiring diagram](https://cdn-learn.adafruit.com/assets/assets/000/055/650/medium800/robotics___cnc_servo-pic_angle.png?1529422893)
 -schéma
 ## Software description
 -jak fungují naše kódy
