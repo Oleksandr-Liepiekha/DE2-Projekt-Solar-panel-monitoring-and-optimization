@@ -66,11 +66,7 @@ void setupPWM_50Hz() {
     // 2 position (45deg) OCR1A = (1,021ms / 20ms) * 39999 = 2000
     //OCR1A = 2041;
 
-     // 3 position (90deg) OCR1A = (1,489ms / 20ms) * 39999 = 2000
-    //OCR1A = 2979;
-
-     // 4 position (135deg) OCR1A = (1,957ms / 20ms) * 39999 = 2000
-    //OCR1A = 3915;
+    ...
 
      // 5 position  (180deg)OCR1A = (2,425ms / 20ms) * 39999 = 2000
     //OCR1A = 4851;
