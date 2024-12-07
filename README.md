@@ -24,9 +24,13 @@ ___
 ## Software description
 ___
 -jak fungují naše kódy
+
 Libraries used:
+
 -link na knihovny
+
 Links to our codes:
+
 -link na kódy
 
 * OLED display
