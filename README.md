@@ -26,7 +26,7 @@ Links to our codes:
 -link na kódy
 ## Results
 * Short video with instructions :https://youtu.be/1KhJNU5B0GU
-* 
+  
 -video a fotky
 ## References
 
