@@ -7,11 +7,11 @@ Arduino Uno used:
 
 -fotka Arduina
 ## Team members
-Oleksandr Liepiekha (responsible for )
+Oleksandr Liepiekha (responsible for : current sensor, photoresistors )
 
-Ondřej Hrozek (responsible for )
+Ondřej Hrozek (responsible for: PWM signal, photoresistors, GitHub )
 
-Ivan Hinak (responsible for )
+Ivan Hinak (responsible for : OLED display, wiring diagram, GitHub )
 
 ## Theoretical description and explanation
 -popis toho co děláme
