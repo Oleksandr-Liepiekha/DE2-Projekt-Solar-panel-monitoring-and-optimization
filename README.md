@@ -3,11 +3,11 @@
 ____
 Parts used:
 
--fotky koponentů
-
+Oled display:
+![Oled display](https://github.com/Oleksandr-Liepiekha/DE2-Projekt-Solar-panel-monitoring-and-optimization/blob/main/462576329_1579972699547153_1045324426878063574_n.jpg?raw=true)
 Arduino Uno used:
 
-![
+
 ## Team members
 * Oleksandr Liepiekha (responsible for : current sensor, photoresistors )
 
