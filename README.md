@@ -7,7 +7,7 @@ Parts used:
 
 Arduino Uno used:
 
--fotka Arduina
+![
 ## Team members
 * Oleksandr Liepiekha (responsible for : current sensor, photoresistors )
 
