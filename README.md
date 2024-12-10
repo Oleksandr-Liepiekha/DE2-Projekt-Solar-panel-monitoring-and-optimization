@@ -5,7 +5,7 @@ ____
 
 * Ondřej Hrozek (responsible for: OLED display, photoresistors, GitHub )
 
-* Ivan Hinak (responsible for : PWM signal, wiring diagram, GitHub )
+* Ivan Hinak (responsible for : PWM signal, wiring diagram, photoresistors )
 
 
 
