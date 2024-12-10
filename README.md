@@ -3,9 +3,9 @@ ____
 ## Team members
 * Oleksandr Liepiekha (responsible for : current sensor, photoresistors )
 
-* Ondřej Hrozek (responsible for: PWM signal, photoresistors, GitHub )
+* Ondřej Hrozek (responsible for: OLED display, photoresistors, GitHub )
 
-* Ivan Hinak (responsible for : OLED display, wiring diagram, GitHub )
+* Ivan Hinak (responsible for : PWM signal, wiring diagram, GitHub )
 
 
 
