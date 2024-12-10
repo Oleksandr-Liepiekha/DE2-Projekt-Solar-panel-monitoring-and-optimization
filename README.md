@@ -326,4 +326,6 @@ int main(void)
 
 ## References
 * VHDLwhiz: https://vhdlwhiz.com/product/vhdl-rc-servo-controller-using-pwm/
-* Data sheet:http://www.ee.ic.ac.uk/pcheung/teaching/DE1_EE/stores/sg90_datasheet.pdf
+* Data sheet Current Sensor:https://navody.dratek.cz/navody-k-produktum/proudovy-senzor-acs712.html?fbclid=IwZXh0bgNhZW0CMTEAAR0c4ihuDLEantfFjd1U-c4-nEBtAvyrMEvjdgQ5THMz3d6KYHg4gV08uSc_aem_rM2CCd-NV4MII8P_j-1wNA
+* Data sheet PWM:https://www.servocity.com/hs-485hb-servo/?fbclid=IwZXh0bgNhZW0CMTEAAR3aT5pAt8PamfAFMd18X1G4DhTAtVN_wJIVZQ8zXBtihQTZBjNh6JMiDZ8_aem_SmhI9yxwlVIMlfroiNAyUw
+* Inspiration analogread:
