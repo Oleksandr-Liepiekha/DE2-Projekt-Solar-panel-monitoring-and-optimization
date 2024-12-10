@@ -319,12 +319,11 @@ int main(void)
 
   _delay_ms(5000);
   }
-
- # References
-* VHDLwhiz: https://vhdlwhiz.com/product/vhdl-rc-servo-controller-using-pwm/
-* Data sheet:http://www.ee.ic.ac.uk/pcheung/teaching/DE1_EE/stores/sg90_datasheet.pdf
 }
   ``````
 ## Results
 * Short video with demonstration :https://youtu.be/1KhJNU5B0GU
-  
+
+## References
+* VHDLwhiz: https://vhdlwhiz.com/product/vhdl-rc-servo-controller-using-pwm/
+* Data sheet:http://www.ee.ic.ac.uk/pcheung/teaching/DE1_EE/stores/sg90_datasheet.pdf
