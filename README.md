@@ -159,10 +159,7 @@ int main(void)
 
   initADC(AVCC);
 
-  /*GPIO_write_high(&PORTB, LED_1);
-  GPIO_write_low(&PORTB, LED_2);
-  GPIO_write_high(&PORTB, LED_3);
-  GPIO_write_low(&PORTB, LED_4);*/
+ 
 
   oled_init(OLED_DISP_ON);
   oled_clrscr();
@@ -237,37 +234,25 @@ int main(void)
   // nejvetsi napeti - sviti ledka (jen test)
   if (max == adc1)
   {
-    /*GPIO_write_high(&PORTB, LED_1);
-    GPIO_write_low(&PORTB, LED_2);
-    GPIO_write_low(&PORTB, LED_3);
-    GPIO_write_low(&PORTB, LED_4);*/
+    
     // Set PWM for position 1 (0 degrees = 0.553ms pulse) ; OCR1A = (0.553ms / 20ms) * 39999 = 1106
     OCR1A = 1106;
   }
   else if (max == adc2)
   {
-   /*GPIO_write_low(&PORTB, LED_1);
-    GPIO_write_high(&PORTB, LED_2);
-    GPIO_write_low(&PORTB, LED_3);
-    GPIO_write_low(&PORTB, LED_4);*/
+   
     // Set PWM for position 2 (60 degrees = 1.177ms pulse) ; OCR1A = (1.177ms / 20ms) * 39999 = 2354
     OCR1A = 2354;
   }
   else if (max == adc3)
   {
-    /*GPIO_write_low(&PORTB, LED_1);
-    GPIO_write_low(&PORTB, LED_2);
-    GPIO_write_high(&PORTB, LED_3);
-    GPIO_write_low(&PORTB, LED_4);*/
+    
     // Set PWM for position 3 (120 degrees = 1.801ms pulse) ; OCR1A = (1.801ms / 20ms) * 39999 = 3602
     OCR1A = 3602;
   }
   else if (max == adc4)
   {
-    /*GPIO_write_low(&PORTB, LED_1);
-    GPIO_write_low(&PORTB, LED_2);
-    GPIO_write_low(&PORTB, LED_3);
-    GPIO_write_high(&PORTB, LED_4);*/
+    
     // Set PWM for position 4 (180 degrees = 2.425ms pulse) ; OCR1A = (2.425ms / 20ms) * 39999 = 4850
     OCR1A = 4850;
   }
